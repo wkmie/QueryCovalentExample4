@@ -11,7 +11,7 @@ export const CONFIG = {
 
     // 4. Set your Covalent API Key
     "api_key": "cqt_rQv39xWcWyT7MP77JJCXWvHPB7v6",
-
+    
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
