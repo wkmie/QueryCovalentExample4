@@ -1,13 +1,13 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
+    "collection_address": "0x5180db8F5c931aaE63c74266b211F580155ecac8",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "137",
+    "block_chain_id": "1",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "My NFT Collection",
+    "title": "Crypto Coven",
 
     // 4. Set your Covalent API Key
     "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
@@ -16,7 +16,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 6. (Optional) Set your banner image
-    "banner_picture": "",
+    "banner_picture": "https://storage.googleapis.com/nftimagebucket/tokens/0x5180db8f5c931aae63c74266b211f580155ecac8/preview/2136.png",
   },
 
   // Supported networks - just for your reference
